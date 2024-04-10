@@ -2,5 +2,5 @@
 - Professor: Eliezio Soares de Sousa Neto
 - Aluno: Welson Rosendo Rodrigues
 - Data: 13/01/2024
+- Era necessário um vídeo apresentando a solução, explicando brevemente e EXECUTANDO os comandos.
 ------
-Os comandos foram vistos em sala de aula junto com slides e vídeos externos.
